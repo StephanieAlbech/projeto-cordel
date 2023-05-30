@@ -1,0 +1,5 @@
+main = conteudo principal do site
+section = basicamente uma sessão dentro do conteudo
+article = região de conteudo independente
+nav = grupo de links no cabeçalho
+address = informações de contato
